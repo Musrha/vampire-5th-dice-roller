@@ -12,7 +12,7 @@
 	"styles": [
 		"./css/vampire5th.css"
 	],
-	"url": "",
-	"manifest": "",
-	"download": ""
+	"url": "https://github.com/Musrha/vampire-5th-dice-roller",
+	"manifest": "https://raw.githubusercontent.com/Musrha/vampire-5th-dice-roller/main/module.json",
+	"download": "https://github.com/Musrha/vampire-5th-dice-roller/archive/main.zip"
 }
