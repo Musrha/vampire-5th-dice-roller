@@ -1,7 +1,7 @@
 {
 	"name": "vampire5th-dice-roller",
 	"title": "Vampire 5th Dice Roller",
-	"description": "Adds the ability to roll a Vampire: The Masquerade 5th die",
+	"description": "Adds the ability to roll a Vampire: The Masquerade 5th die.",
 	"version": "1.0.0",
 	"minimumCoreVersion" : "0.7.5",
 	"compatibleCoreVersion" : "0.7.7",
