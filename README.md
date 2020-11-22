@@ -9,3 +9,5 @@ Vampire 5th Dice Roller Module for Sandbox. Requierements: [Dice so Nice!](https
 [sandbox-shield-050]: https://img.shields.io/badge/Sandbox-0.5.0-informational
 [sandbox-url]: https://gitlab.com/rolnl/sandbox-system-builder/-/tree/master
 [foundry-url]: https://foundryvtt.com
+
+![Muestra](https://i.ibb.co/PwDRwZ6/opera-2020-11-22-18-36-46.jpg)
