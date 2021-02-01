@@ -7,8 +7,8 @@ Regular dice are **1dn** and Hunger dice are **1dh**.
 
 [Manifest Url](https://raw.githubusercontent.com/Musrha/vampire-5th-dice-roller/main/module.json)
 
-[foundry-shield-077]: https://img.shields.io/badge/Foundry-0.7.7-informational
-[sandbox-shield-050]: https://img.shields.io/badge/Sandbox-0.5.0-informational
+[foundry-shield-077]: https://img.shields.io/badge/Foundry-0.7.9-informational
+[sandbox-shield-050]: https://img.shields.io/badge/Sandbox-0.7.5-informational
 [sandbox-url]: https://gitlab.com/rolnl/sandbox-system-builder/-/tree/master
 [foundry-url]: https://foundryvtt.com
 
